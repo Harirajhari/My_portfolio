@@ -26,9 +26,10 @@ function Projects(){
                 <div className = "flex flex-col gap-5">
                 <h1  className = "text-secoundary text-xl">{projects[selectedItemIndex].title}</h1>
                     <p className="text-white">{projects[selectedItemIndex].description}</p>
-                    <p className="text-white">
+                    <a href={`${projects[selectedItemIndex].link}`}><p className="text-tertiary">Github</p></a>
+                    <a className="text-white">
                         {projects[selectedItemIndex].technology + " "} 
-                    </p>
+                    </a>
                 </div>
                 </div>
             </div>

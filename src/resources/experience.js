@@ -4,7 +4,7 @@ export const experiences=[
     company: "Information Technology",
     title: "Bachelor of Technology",
     period: "2021 - Present",
-    description: "At Karpagam Institute of Technology, I am a third-year student"
+    description: "At Karpagam Institute of Technology, I am a Final  -year student"
   },
   {
     _id: "2",
