@@ -9,7 +9,7 @@ function Contact() {
         Email : "hariraj121203@gmail.com",
         Mobile: "8667214326",
         Location:"Tiruvannamalai",
-        Country: "INDIA",
+        Country: "India",
     };
     return (
         <div>
